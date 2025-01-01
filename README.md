@@ -1,2 +1,2 @@
-# MinecraftWorld-Temple
+# Temple
 The "Temple" Minecraft world
